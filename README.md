@@ -4,7 +4,7 @@
 
 ### AI Solutions Engineer · GenAI · RAG · Agentic AI · LLMOps · AI Security
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/902f155d-49b6-4e1f-8b85-63d5800cf846" /> Hyderabad, India
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/902f155d-49b6-4e1f-8b85-63d5800cf846" /> Hyderabad, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrashekhar--marella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-marella)
 [![Website](https://img.shields.io/badge/Website-chandrashekharmarella.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chandrashekharmarella.com)
