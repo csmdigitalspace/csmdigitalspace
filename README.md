@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I run a production **LiteLLM AI Gateway** at a Fortune 50 healthcare company, routing multiple business applications to LLMs on AWS. Outside work, I build hands-on GenAI projects and write about what I learn, including what breaks.
+Senior Technology Lead | GenAI · RAG · Agentic AI · MCP | Application & AWS Architecture | Full-Stack Development
 
 My current focus is designing LLM applications that are **observable, evaluated and secure**, not just demos.
 
@@ -43,32 +43,6 @@ My current focus is designing LLM applications that are **observable, evaluated 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-## 📂 Where my work lives
-
-| Workspace | What you'll find |
-|---|---|
-| [**csm-portfolio**](https://github.com/csm-portfolio) | Polished, documented projects: AI, cloud, platform and SRE |
-| [**csm-learn**](https://github.com/csm-learn) | Labs, notebooks and the code behind my articles |
-| **This account** | Experiments and personal repositories |
-
-## 🚀 Featured projects
-
-Projects are published in stages. Each ships with a README, an architecture diagram and run instructions.
-
-| Project | What it explores | Status |
-|---|---|---|
-| `rag-architecture-patterns` | Chunking, retrieval and evaluation strategies compared with measured results | 🔨 In progress |
-| `ai-security-lab` | Hands-on OWASP LLM and Agentic attack and defence demos | 🔨 In progress |
-
-## 📚 Currently learning and building
-
-- Agentic AI architectures with LangGraph and MCP
-- AI security and guardrail design
-- AWS Bedrock and Azure AI Foundry patterns
-- Observability for LLM apps (LangSmith, Langfuse)
-
-## ✍️ Writing
 
 I share architecture notes, lab results and lessons learned on [LinkedIn](https://linkedin.com/in/chandrashekhar-marella) and [my website](https://chandrashekharmarella.com).
 
