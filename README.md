@@ -19,15 +19,18 @@ Senior Technology Lead | GenAI · RAG · Agentic AI · MCP | Application & AWS A
 
 My current focus is designing LLM applications that are **observable, evaluated and secure**, not just demos.
 
-## 🎯 What I work on
+## 🎯 Focus Areas
 
 | Area | Topics |
 |---|---|
-| **LLM application architecture** | RAG (chunking, hybrid search, reranking, RAGAS evaluation), LangChain, LangGraph, MCP |
-| **Agentic design patterns** | Supervisor, human-in-the-loop, ReAct, tool use and state management |
-| **LLMOps** | AI gateways, model routing and fallback, cost governance, tracing and evaluation |
-| **AI security** | OWASP Top 10 for LLM Applications, OWASP Agentic Top 10, guardrails, MITRE ATLAS |
-| **Cloud** | AWS (Bedrock, Lambda, ECS, S3), Azure (AI Foundry, OpenAI, DevOps) |
+| 🤖 **Generative AI & LLM Applications** | RAG (chunking, hybrid search, reranking, RAGAS evaluation), LangChain, LangGraph, MCP |
+| 🧠 **Agentic AI** | Supervisor patterns, human-in-the-loop workflows, ReAct, tool calling, and state management |
+| ⚙️ **LLMOps & AI Governance** | AI gateways, model routing and fallback, cost governance, tracing, evaluation, guardrails, and PII/PHI handling |
+| 🛡️ **AI Security** | OWASP Top 10 for LLM Applications, OWASP Agentic Top 10, secure prompt and tool-use patterns |
+| ☁️ **Cloud & Architecture** | AWS (Bedrock, Lambda, ECS, S3, API Gateway), Azure AI Foundry, Azure OpenAI, Azure DevOps, API-driven and scalable application design |
+| 🧩 **Full-Stack Development** | .NET/C#, TypeScript, React, Node.js, MEAN/MERN, web and mobile application development |
+| 🗄️ **Data & Storage** | PostgreSQL, SQL Server, MongoDB, DynamoDB, and vector databases |
+| 🚀 **DevOps & Delivery** | Docker, GitHub Actions, Jenkins, CI/CD, Agile SDLC |
 
 ## 🛠️ Tech stack
 
