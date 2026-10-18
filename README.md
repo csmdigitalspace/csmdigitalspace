@@ -8,10 +8,17 @@
 
 ## 🔗 Connect
 
-**in** — [LinkedIn — Chandrashekhar Marella](https://linkedin.com/in/chandrashekhar-marella)
+<div align="center">
 
-**🌐** — [chandrashekharmarella.com](https://chandrashekharmarella.com)
+<a href="https://linkedin.com/in/chandrashekhar-marella" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
+<a href="https://chandrashekharmarella.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-chandrashekharmarella.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+
+</div>
 ---
 
 ## 👋 About me
